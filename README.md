@@ -1,2 +1,2 @@
-# react-dnd-kanban-example-custom-drag-layer
+# kanban-board
 Created with CodeSandbox
